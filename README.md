@@ -1,1 +1,3 @@
 # Mechie
+Hi...
+Welcome to GITHUB
